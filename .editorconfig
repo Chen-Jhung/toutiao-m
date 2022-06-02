@@ -2,4 +2,5 @@
 indent_style = space
 indent_size = 2
 trim_trailing_whitespace = true
-insert_final_newline = true
+// 取消保存不换行就报错的问题 把下面的true改为false
+insert_final_newline = false
