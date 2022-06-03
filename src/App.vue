@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>小陈</h1>
+    <h2 class="iconfont icon-pinglun"></h2>
   </div>
 </template>
 <script>
